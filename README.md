@@ -1,5 +1,7 @@
 # [MayLeetCodingChallenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
+Solutions for LeetCode's Challenge for the month of May, done in Python3. Daily solutions starting from the 16th of May, some previous problems sovled here and there as well.
+
  Day  | Problem | Solution |
 ----- |----------| ---------|
 08 ✅ | [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) | [link](https://github.com/soukaryag/MayLeetCodingChallenge/blob/master/slope.py)
