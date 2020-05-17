@@ -1,7 +1,4 @@
-# MayLeetCodingChallenge
-
-link: https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/  
-
+# [MayLeetCodingChallenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
  Day  | Problem | Solution |
 ----- |----------| ---------|
