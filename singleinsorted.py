@@ -1,6 +1,5 @@
 class Solution(object):
     def recurseNonDup(self, nums):
-        print(nums)
         if len(nums) <= 3:
             d = {i:0 for i in nums}
             for i in nums:

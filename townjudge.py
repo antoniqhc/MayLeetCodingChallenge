@@ -4,8 +4,7 @@ class Solution(object):
         :type N: int
         :type trust: List[List[int]]
         :rtype: int
-        """
-        
+        """ 
         hshmp = {n:[0,True] for n in range(1,N+1)}
         
         for item in trust:
