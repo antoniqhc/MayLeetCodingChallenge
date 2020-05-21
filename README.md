@@ -2,7 +2,7 @@
 
 Solutions for LeetCode's Challenge for the month of May, done in Python3. Daily solutions starting from the 16th of May, some previous problems sovled here and there as well.
 
-As a challenge, I give myself 15 minutes each day to come up with a solution and finish implementation.
+As a challenge, I give myself 20 minutes each day to come up with a solution and finish implementation.
 
  Day  | Problem | Solution | Big-Oh
 ----- |----------| ---------|----------|
